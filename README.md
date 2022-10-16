@@ -1,5 +1,5 @@
 # NGramBuilder
-This project was for a college assignment for a module that introduced the student to Object-Oriented Programming. The module taught Java as the primary language. 
+This project was developed for a college assignment. The module taught an introduction to object-oriented programming through Java.
 
 Notes about the assignment. 
   - The student was required to program an n-gram frequency builder.
