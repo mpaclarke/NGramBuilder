@@ -13,7 +13,7 @@ Notes about the assignment.
 
 
 Workflow
-  - Options 1,2 and 3 collect input data from the user.
+  - Options 1, 2 and 3 collect input data from the user.
   - Option 4 executes the main parts of the application and runs in the following order:
     1. Exception handling validates that the user has input data for the previous options.
     2. The application creates a new Parser object and passes the user’s directory and a Boolean switch for the file type to the Parser constructor.
