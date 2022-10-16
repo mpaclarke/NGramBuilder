@@ -8,8 +8,8 @@ Notes about the assignment.
       1. Enter a file path to a folder of text files on the user’s local drive. 
       2. Enter an n-gram size from 1 to 5.
       3. Enter the file path and name of the .csv file.
-  - The student was not allowed to use Array lists. 
-  - The overall goal of the assignment encouraged students to demonstrate the topics covered in the introductory module. 
+  - The student was not allowed to use Array lists or Hash tables. 
+  - The overall goal of the assignment encouraged students to demonstrate the topics covered in the introductory module.
 
 
 Workflow
@@ -32,7 +32,7 @@ Features
   - The parser() method collects Latin alphabet characters only and excludes non-alphabetic characters, numbers and whitespace (Healy 2022).
   - The NGramGenerator class implements a progress bar and validation prevents the progress bar from running on Windows OS (Healy 2022; VonC 2008).
   - The addGrams() method calculates the probability of the n-grams. This information is saved to the table Object[][] and prints to the .csv file.
-  - The save() method prints headings to the .csv file and also excludes null entries from the Object[][] (I did not solve the Hash Code collisions).
+  - The save() method prints headings to the .csv file and also excludes null entries from the Object[][]. 
   - The user can open the .csv file from the application (How to Open a File in Java n.d).
   - The ConsoleColour class enhances the user feedback.
 
