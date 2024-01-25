@@ -1,7 +1,7 @@
 # NGramBuilder
 This project was developed for a college assignment. The module taught an introduction to object-oriented programming through Java.
 
-Additionally, this repo contains a non-executable JAR of the project. To run the JAR, use: java -cp benchmarker.jar ie.atu.sw.Runner
+Additionally, this repo contains a non-executable JAR of the project. To run the JAR, use: java -cp ngrambuilder.jar ie.atu.sw.Runner
 
 Notes about the assignment. 
   - The student was required to program an n-gram frequency builder.
